@@ -1,0 +1,14 @@
+title: "规则之书"
+author: "LingsBookOfRules"
+# 每一页最多256个字符 建议在最后一页留下至少128个字符的长度来添加确认按钮
+pages:
+  - "qwq awa"
+  - "owo owo"
+  - "uwu uwu"
+  - "faq"
+disagree: "§c§l你必须同意规则才能加入服务器."
+agree: ""
+agree_sound: "ENTITY_PLAYER_LEVELUP"
+done: "§a§l你必须翻到最后一页进行选择."
+agreed_players: [ ]
+

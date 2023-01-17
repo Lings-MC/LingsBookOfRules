@@ -1,0 +1,11 @@
+name: LingsBookOfRules
+version: '${project.version}'
+main: cn.lingsmc.lingsbookofrules.LingsBookOfRules
+api-version: 1.15
+authors: [ Crsuh2er0 ]
+depend:
+  - AuthMe
+commands:
+  lingsbookofrules:
+    aliases:
+      - lbor
